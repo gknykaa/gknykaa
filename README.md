@@ -12,7 +12,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 💬 Ask me about **React, JavaScript, TypeScript, Gatsby, and AWS**
 
-- 📫 How to reach me **gk150899@gmail.com**
+- 📫 How to reach me **gautam.balyan@nykaa.com**
 
 - ⚡ Fun fact **Gym over Running**
 
